@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AarhamWasit/AarhamWasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I am a junior majoring in Computer Science and Mathematics at Michigan State University, with an emphasis on software development and academic research. Currently, I am contributing as a Research Software Development Intern in the EnSURE program and as a Research Assistant at the DeepTech Research Lab, where I am involved in cutting-edge interdisciplinary projects. I have been recognized for my technological contributions and creative approaches at prestigious hackathons, including NASA's International Space Apps Challenge, HackHarvard, HackMIT, and more. In addition, I have played a pivotal role in organizing SpartaHack, Michigan's largest hackathon. I am passionate about tackling complex research problems and global challenges through innovative software solutions. For opportunities and potential collaboration, please reach out to me at aarham.wasit@gmail.com.
+
+[profile last updated: Nov 1, 2023]
