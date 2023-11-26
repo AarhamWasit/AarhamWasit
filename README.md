@@ -17,6 +17,10 @@ Hello! I am a junior majoring in Computer Science and Mathematics at Michigan St
 
 My Hackathons:
 
+- MHacks, UMich - https://github.com/Swabhan/Terminal.AI  
+  2nd Overall & Best Developer Tool  
+  Created Terminal.AI, an AI-driven devtool within the terminal for real-time error resolution; integrating GPT API to analyze error stacks, files, and environments, offering context-specific solutions and exact implementation locations
+
 - HackHarvard, Harvard - https://github.com/devs-cs/DreamScape  
   CareYaya Health Tech Challenge Winner, $10,000+ Grant  
   Created DreamScape, a Flask web application with RESTful interface, leveraging stable diffusion algorithms to convert EEG data into visual narratives to facilitate Alzheimer’s research; incorporated React for responsive and interactive UI
